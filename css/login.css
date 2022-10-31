@@ -94,16 +94,17 @@ input {
 
 /* 로그인 버튼 */
 .loginBtn {
-    padding: 13px 0;
+    /* padding: 13px 0; */
     margin: 50px 0 0;
     width: 100%;
     font-size: 1.2em;
     letter-spacing: 1px;
     display: inline-block;
     background: #222;
+    border-radius: 0;
 }
 
-.loginBtn>a {
+.loginBtn{
     color: #fff;
 }
 

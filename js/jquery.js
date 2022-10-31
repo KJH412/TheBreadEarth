@@ -38,6 +38,7 @@ $(function () {
     let currentIndex = 0;
     let slides = $(".banner>li");
     let pager = $('.pager>span');
+    
     function fadeBanner() {
         pager.removeClass('active');
         pager.eq(currentIndex).addClass('active');
