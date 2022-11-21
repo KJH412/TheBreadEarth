@@ -1,4 +1,4 @@
-# 비건베이커리(TheBreadEarth) 반응형 웹사이트
+# TheBreadEarth : 비건베이커리 반응형 웹사이트
 
 ### 프로젝트 소개
 
