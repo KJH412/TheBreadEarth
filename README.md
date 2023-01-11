@@ -10,7 +10,7 @@
 
 ### 제작 페이지
 
-- 메인페이지
+- 메인페이지 <a>https://kjh412.github.io/Portfolio1/index.html</a>
 - 브랜드스토리
 - MENU 페이지
 - 이벤트상품 페이지
