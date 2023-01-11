@@ -8,6 +8,9 @@
 
 - 단독작업(개인100%)
 
+### 제작기간
+- 기획 및 구현 약 2주
+
 ### 제작 페이지
 
 - 메인페이지 <a>https://kjh412.github.io/Portfolio1/index.html</a>
