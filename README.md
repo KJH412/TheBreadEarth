@@ -11,10 +11,10 @@
 ### 제작 페이지
 
 - 메인페이지 <a>https://kjh412.github.io/Portfolio1/index.html</a>
-- 브랜드스토리
-- MENU 페이지
-- 이벤트상품 페이지
-- 로그인
+- 브랜드스토리 <a>https://kjh412.github.io/Portfolio1/brand_story.html</a>
+- MENU 페이지 <a>https://kjh412.github.io/Portfolio1/product_list.html</a>
+- 이벤트상품 페이지 <a>https://kjh412.github.io/Portfolio1/product_md_list.html</a>
+- 로그인 <a>https://kjh412.github.io/Portfolio1/login.html</a>
 
 ### 작업
 
