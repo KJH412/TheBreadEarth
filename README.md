@@ -13,11 +13,11 @@
 
 ### 제작 페이지
 
-- 메인페이지 <a>https://kjh412.github.io/Portfolio1/index.html</a>
-- 브랜드스토리 <a>https://kjh412.github.io/Portfolio1/brand_story.html</a>
-- MENU 페이지 <a>https://kjh412.github.io/Portfolio1/product_list.html</a>
-- 이벤트상품 페이지 <a>https://kjh412.github.io/Portfolio1/product_md_list.html</a>
-- 로그인 <a>https://kjh412.github.io/Portfolio1/login.html</a>
+- <a href="https://kjh412.github.io/TheBreadEarth/">메인페이지</a>
+- <a href="https://kjh412.github.io/TheBreadEarth/brand_story.html">브랜드스토리</a>
+- <a href="https://kjh412.github.io/TheBreadEarth/product_list.html">MENU 페이지</a>
+- <a href="https://kjh412.github.io/TheBreadEarth/product_md_list.html">이벤트상품 페이지</a>
+- <a href="https://kjh412.github.io/TheBreadEarth/login.html">로그인</a>
 
 ### 작업
 
